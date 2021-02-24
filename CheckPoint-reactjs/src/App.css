@@ -1,0 +1,36 @@
+.myApp {
+  text-align: center;
+  background-color: #40038f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.emailInput {
+  margin-top: 40px;
+}
+
+.loginButton {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.updateStatus {
+  margin-right: 50px;
+}
+
+.filterNameInput {
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
